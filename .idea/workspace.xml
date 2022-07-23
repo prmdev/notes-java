@@ -14,10 +14,10 @@
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_monitor_1_2_0_beta01_aar.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_rules_1_2_0_beta01_aar.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/.idea/libraries/Gradle__androidx_test_runner_1_2_0_beta01_aar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/deyvitineo/notes/NotesListActivityTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/AddEditNoteViewModelFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/ViewDeleteNoteViewModelFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/UtilTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/androidTest/java/com/prmdev/notes/NotesListActivityTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/AddEditNoteViewModelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/ViewDeleteNoteViewModelFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/UtilTests.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.bin" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/executionHistory/executionHistory.lock" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.4.1/fileHashes/fileHashes.bin" afterDir="false" />
@@ -34,13 +34,13 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/app.iml" beforeDir="false" afterPath="$PROJECT_DIR$/app/app.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NoteActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NoteActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NotesListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NotesListActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/entities/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/entities/Note.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/util/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/util/Utility.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NoteActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NoteActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NotesListActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NotesListActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/entities/Note.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/entities/Note.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/util/Utility.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/util/Utility.java" afterDir="false" />
     </list>
     <list id="b71737c4-3e23-436f-ae68-73bb56f7c6cd" name="Added viewmodels for viewing, deleting, adding and updating notes." comment="Added viewmodels for viewing, deleting, adding and updating notes.">
-      <changelist_data name="Deyvi Tineo" email="deyvitineo@gmail.com" date="1578413722000" />
+      <changelist_data name="Deyvi Tineo" email="prmdev@gmail.com" date="1578413722000" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,7 +64,7 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NoteActivity.java">
+            <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NoteActivity.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="225">
                   <caret line="256" column="17" lean-forward="true" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
@@ -90,7 +90,7 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/util/Utility.java">
+            <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/util/Utility.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="204">
                   <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
@@ -102,7 +102,7 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/ExampleUnitTest.java">
+            <entry file="file://$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/ExampleUnitTest.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="204">
                   <caret line="14" column="20" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="20" />
@@ -115,7 +115,7 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/UtilTests.java">
+            <entry file="file://$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/UtilTests.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="153">
                   <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
@@ -131,7 +131,7 @@
       <split-second>
         <leaf>
           <file pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/AddEditNoteViewModelFactory.java">
+            <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/AddEditNoteViewModelFactory.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="170">
                   <caret line="10" column="42" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="42" />
@@ -145,7 +145,7 @@
             </entry>
           </file>
           <file pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/ViewDeleteNoteViewModelFactory.java">
+            <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/ViewDeleteNoteViewModelFactory.java">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="374">
                   <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -185,57 +185,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/persistance/NoteDatabase.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/async/InsertAsyncTask.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/async/DeleteAsyncTasj.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/async/DeleteAsyncTask.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/async/UpdateAsyncTask.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/persistance/NoteRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/persistance/NoteDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/async/InsertAsyncTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/async/DeleteAsyncTasj.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/async/DeleteAsyncTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/async/UpdateAsyncTask.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/persistance/NoteRepository.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/pref/preferences.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/menu.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/menu/menu.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/PreferencesContainer.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/PreferencesContainer.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/preferences_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/preferences_fragment_layout.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/preferences_activity.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/PreferencesContainerActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/PreferencesContainerActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/PreferencesFragment.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/PreferencesFragment.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/xml/preferences.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/Entities/NoteDatabase.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/Entities/Note.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/Interfaces/NoteDao.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/Database/NoteDatabase.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/Repositories/NoteRepository.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/DeleteNoteViewModel.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/adapters/NotesRecyclerAdapter.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/Entities/NoteDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/Entities/Note.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/Interfaces/NoteDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/Database/NoteDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/Repositories/NoteRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/DeleteNoteViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/adapters/NotesRecyclerAdapter.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_note.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_note_toolbar.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/interfaces/IdCallback.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/interfaces/OnNewNoteAdded.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/ViewDeleteNoteViewModel.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/repositories/NoteRepository.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/interfaces/NoteDao.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/interfaces/IdCallback.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/interfaces/OnNewNoteAdded.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/ViewDeleteNoteViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/repositories/NoteRepository.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/interfaces/NoteDao.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
-        <option value="$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/NoteActivityLogicTest.java" />
-        <option value="$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/TimestampTest.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/NoteActivityLogicTest.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/TimestampTest.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_notes.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/layout_note_list_item.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/util/VerticalSpacingItemDecorator.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/util/VerticalSpacingItemDecorator.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/colors.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/layout/activity_view_edit_add_note.xml" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/entities/Note.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/entities/Note.java" />
         <option value="$PROJECT_DIR$/app/build.gradle" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/database/NoteDatabase.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/AddEditNoteViewModel.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/AddEditNoteViewModelFactory.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/ViewDeleteNoteViewModelFactory.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NotesListActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/deyvitineo/notes/NotesListActivityTest.java" />
-        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/deyvitineo/notes/ViewNoteTest.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NoteActivity.java" />
-        <option value="$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/UtilTests.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/util/Utility.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/database/NoteDatabase.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/AddEditNoteViewModel.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/AddEditNoteViewModelFactory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/ViewDeleteNoteViewModelFactory.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NotesListActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/prmdev/notes/NotesListActivityTest.java" />
+        <option value="$PROJECT_DIR$/app/src/androidTest/java/com/prmdev/notes/ViewNoteTest.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NoteActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/UtilTests.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/util/Utility.java" />
       </list>
     </option>
   </component>
@@ -389,7 +389,7 @@
   </component>
   <component name="RecentsManager">
     <key name="android.template.packageName">
-      <recent name="com.deyvitineo.notes" />
+      <recent name="com.prmdev.notes" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -409,12 +409,12 @@
       <module name="app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deyvitineo.notes.*" />
+          <option name="PATTERN" value="com.prmdev.notes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.deyvitineo.notes" />
-      <option name="MAIN_CLASS_NAME" value="com.deyvitineo.notes.ExampleUnitTest" />
+      <option name="PACKAGE_NAME" value="com.prmdev.notes" />
+      <option name="MAIN_CLASS_NAME" value="com.prmdev.notes.ExampleUnitTest" />
       <option name="METHOD_NAME" value="addition_isCorrect" />
       <option name="TEST_OBJECT" value="method" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -426,12 +426,12 @@
       <module name="app" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.deyvitineo.notes.*" />
+          <option name="PATTERN" value="com.prmdev.notes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.deyvitineo.notes" />
-      <option name="MAIN_CLASS_NAME" value="com.deyvitineo.notes.UtilTests" />
+      <option name="PACKAGE_NAME" value="com.prmdev.notes" />
+      <option name="MAIN_CLASS_NAME" value="com.prmdev.notes.UtilTests" />
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
       <method v="2">
@@ -493,7 +493,7 @@
         <option name="STARTUP_CPU_PROFILING_CONFIGURATION_NAME" value="Sample Java Methods" />
       </Profilers>
       <option name="DEEP_LINK" value="" />
-      <option name="ACTIVITY_CLASS" value="com.deyvitineo.notes.NotesListActivity" />
+      <option name="ACTIVITY_CLASS" value="com.prmdev.notes.NotesListActivity" />
       <method v="2">
         <option name="Android.Gradle.BeforeRunTask" enabled="true" />
       </method>
@@ -556,7 +556,7 @@
       <option name="TESTING_TYPE" value="2" />
       <option name="INSTRUMENTATION_RUNNER_CLASS" value="androidx.test.runner.AndroidJUnitRunner" />
       <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="com.deyvitineo.notes.NotesListActivityTest" />
+      <option name="CLASS_NAME" value="com.prmdev.notes.NotesListActivityTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="EXTRA_OPTIONS" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
@@ -605,7 +605,7 @@
       <option name="TESTING_TYPE" value="2" />
       <option name="INSTRUMENTATION_RUNNER_CLASS" value="androidx.test.runner.AndroidJUnitRunner" />
       <option name="METHOD_NAME" value="" />
-      <option name="CLASS_NAME" value="com.deyvitineo.notes.ViewNoteTest" />
+      <option name="CLASS_NAME" value="com.prmdev.notes.ViewNoteTest" />
       <option name="PACKAGE_NAME" value="" />
       <option name="EXTRA_OPTIONS" value="" />
       <option name="CLEAR_LOGCAT" value="false" />
@@ -866,7 +866,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/async/UpdateAsyncTask.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/async/UpdateAsyncTask.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/drawable/ic_add_black_24dp.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -891,7 +891,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/PreferencesFragment.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/PreferencesFragment.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
@@ -901,14 +901,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/PreferencesContainerActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/PreferencesContainerActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="34">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/async/DeleteAsyncTask.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/async/DeleteAsyncTask.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/values/strings.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
@@ -916,16 +916,16 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/deyvitineo/notes/persistance/NoteDao_Impl.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/async/InsertAsyncTask.java" />
-    <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/deyvitineo/notes/interfaces/NoteDao_Impl.java">
+    <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/prmdev/notes/persistance/NoteDao_Impl.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/async/InsertAsyncTask.java" />
+    <entry file="file://$PROJECT_DIR$/app/build/generated/ap_generated_sources/debug/out/com/prmdev/notes/interfaces/NoteDao_Impl.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1326">
           <caret line="106" column="26" selection-start-line="106" selection-start-column="26" selection-end-line="106" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/interfaces/OnNewNoteAdded.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/interfaces/OnNewNoteAdded.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/xml/preferences.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -942,8 +942,8 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/LinedEditText.java" />
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/TimestampTest.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/LinedEditText.java" />
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/TimestampTest.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/res/layout/layout_note_list_item.xml">
       <provider editor-type-id="android-designer2" />
       <provider selected="true" editor-type-id="text-editor">
@@ -967,7 +967,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/util/VerticalSpacingItemDecorator.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/util/VerticalSpacingItemDecorator.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="21" selection-start-line="21" selection-end-line="21" />
@@ -987,7 +987,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/database/NoteDatabase.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/database/NoteDatabase.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="612">
           <caret line="38" column="44" selection-start-line="38" selection-start-column="36" selection-end-line="38" selection-end-column="44" />
@@ -999,7 +999,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/interfaces/NoteDao.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/interfaces/NoteDao.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="289">
           <caret line="17" column="8" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="8" />
@@ -1032,7 +1032,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/AddEditNoteViewModelFactory.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/AddEditNoteViewModelFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="42" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="42" />
@@ -1044,7 +1044,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/repositories/NoteRepository.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/repositories/NoteRepository.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="87">
           <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
@@ -1063,7 +1063,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/ViewDeleteNoteViewModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/ViewDeleteNoteViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="357">
           <caret line="21" column="50" lean-forward="true" selection-start-line="21" selection-start-column="50" selection-end-line="21" selection-end-column="50" />
@@ -1075,7 +1075,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/ViewDeleteNoteViewModelFactory.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/ViewDeleteNoteViewModelFactory.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
           <caret line="22" selection-start-line="22" selection-end-line="22" />
@@ -1085,7 +1085,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/entities/Note.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/entities/Note.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
           <caret line="32" column="31" selection-start-line="32" selection-start-column="31" selection-end-line="32" selection-end-column="31" />
@@ -1106,7 +1106,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/adapters/NotesRecyclerAdapter.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/adapters/NotesRecyclerAdapter.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1088">
           <caret line="64" column="67" lean-forward="true" selection-start-line="64" selection-start-column="67" selection-end-line="64" selection-end-column="67" />
@@ -1124,21 +1124,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/deyvitineo/notes/NotesListActivityTest.java">
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/prmdev/notes/NotesListActivityTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="425">
           <caret line="48" column="69" lean-forward="true" selection-start-line="48" selection-start-column="69" selection-end-line="48" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/deyvitineo/notes/ViewNoteTest.java">
+    <entry file="file://$PROJECT_DIR$/app/src/androidTest/java/com/prmdev/notes/ViewNoteTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="66" column="17" selection-start-line="66" selection-start-column="17" selection-end-line="66" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NoteActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NoteActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="256" column="17" lean-forward="true" selection-start-line="256" selection-start-column="17" selection-end-line="256" selection-end-column="17" />
@@ -1162,7 +1162,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/ExampleUnitTest.java">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/ExampleUnitTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="14" column="20" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="20" />
@@ -1173,7 +1173,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/util/Utility.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/util/Utility.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="61" lean-forward="true" selection-start-line="12" selection-start-column="61" selection-end-line="12" selection-end-column="61" />
@@ -1183,7 +1183,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/viewmodels/AddEditNoteViewModel.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/viewmodels/AddEditNoteViewModel.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="442">
           <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
@@ -1197,7 +1197,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/deyvitineo/notes/NotesListActivity.java">
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/prmdev/notes/NotesListActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="160">
           <caret line="46" selection-start-line="46" selection-end-line="46" />
@@ -1208,7 +1208,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/deyvitineo/notes/UtilTests.java">
+    <entry file="file://$PROJECT_DIR$/app/src/test/java/com/prmdev/notes/UtilTests.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
